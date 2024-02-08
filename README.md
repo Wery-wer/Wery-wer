@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Wery and I'm a Undergraduate Informatics Student at Telkom University, from South Kalimantan</h2>
+<h2 align="left">Hi 👋! My name is Wery and I'm a Undergraduate Informatics Student at Telkom University</h2>
 
 ###
 
