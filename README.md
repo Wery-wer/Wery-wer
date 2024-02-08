@@ -25,9 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-# GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wery-wer&theme=omni&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wery-wer&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>GitHub Stats:</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wery-wer&theme=omni&hide_border=false" alt="GitHub Streak" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wery-wer&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150">
+</div>
+
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
