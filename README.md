@@ -27,11 +27,6 @@
 
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wery-wer&theme=omni&hide_border=false)
-
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif"  />
-</div>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wery-wer&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
