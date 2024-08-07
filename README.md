@@ -31,6 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wery-wer&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150">
 </div>
 
+<img src="https://raw.githubusercontent.com/Wery-wer/Wery-wer/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
